@@ -97,9 +97,6 @@ Je veux une calculatrice qui :
 
 ---
 
-## 🔹 7. Technologies Possibles  
-- **Backend** : Node.js (Express) / Django / Flask  
-- **Base de Données** : PostgreSQL / MongoDB / SQLite  
-- **Frontend** : React / Vue.js / HTML+CSS+JS  
-
+## 🔹 7. Technologies 
+       **NextJs**
 
