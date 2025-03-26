@@ -1,7 +1,7 @@
 # 📌 Conception et Analyse d'une Calculatrice avec Historique et Fonctions Financières  
 
 ## 🔹 1. Analyse du Besoin  
-Tu veux une calculatrice qui :  
+Je veux une calculatrice qui :  
 ✅ Effectue des opérations mathématiques générales.  
 ✅ Intègre des fonctions avancées pour la comptabilité et la finance.  
 ✅ Permet d’activer ou désactiver l’historique des calculs.  
@@ -9,7 +9,7 @@ Tu veux une calculatrice qui :
 
 ---
 
-## 🔹 2. Identification des Acteurs  
+## 🔹 2.  Acteurs  
 - **Utilisateur** : Se connecte, effectue des calculs standards et financiers, active/désactive la sauvegarde.  
 - **Système** : Gère l’authentification, exécute les calculs, stocke l’historique si activé.  
 
